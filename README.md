@@ -2,32 +2,32 @@
 
 I hereby claim:
 
-  * I am aapahma46 on github.
-  * I am aapahma46 (https://keybase.io/aapahma46) on keybase.
-  * I have a public key ASClahttMRnEwzuFJXhiCM5XMCIUoSKxmLIPQrX85PxVkAo
+  * I am alrimers on github.
+  * I am albax (https://keybase.io/albax) on keybase.
+  * I have a public key ASC7li4dBFhKzR2Vqrx8lHLURXhlo4C6dzMYEVVvv6CS_Ao
 
 To claim this, I am signing this object:
 
-json
+```json
 {
   "body": {
     "key": {
-      "eldest_kid": "0120a56a1b6d3119c4c33b8525786208ce57302214a122b198b20f42b5fce4fc55900a",
+      "eldest_kid": "0120bb962e1d04584acd1d95aabc7c9472d4457865a380ba77331811556fbfa092fc0a",
       "host": "keybase.io",
-      "kid": "0120a56a1b6d3119c4c33b8525786208ce57302214a122b198b20f42b5fce4fc55900a",
-      "uid": "675d0d4f79361b29a06565de0bc19919",
-      "username": "aapahma46"
+      "kid": "0120bb962e1d04584acd1d95aabc7c9472d4457865a380ba77331811556fbfa092fc0a",
+      "uid": "2539215d2833c58710c52da979271119",
+      "username": "albax"
     },
     "merkle_root": {
-      "ctime": 1568118771,
-      "hash": "0e9054ab6a4fcc1b3a357f96da2433cd9b39adbf9a7e645f92f4ce36ddb020acdf727a9ba27d9f0c3d998955bd3db27861dbd2171f0da259b7a475b317d72ce6",
-      "hash_meta": "479144457bad7e301f967baee33453071d8b2f951f7e8f0839e87cc9300833b4",
-      "seqno": 6401157
+      "ctime": 1568221404,
+      "hash": "36d3a784045a87db99d30b0c57c7e0dfba47f4270bf29c7bb1d58065838c5bbbcc516a3dd1264562971c9391694deb5d131a2916baec31b782947c9248c7f1bb",
+      "hash_meta": "812faac232256f8793a6a485bf71accf27efe6771a47ed24b79333ad77225d0b",
+      "seqno": 6768192
     },
     "service": {
-      "entropy": "bQzDx5j/7UaByP8uSq3D+cGk",
+      "entropy": "njLJMEZSn8t99qUPL/MZLdhC",
       "name": "github",
-      "username": "aapahma46"
+      "username": "alrimers"
     },
     "type": "web_service_binding",
     "version": 2
@@ -36,31 +36,32 @@ json
     "name": "keybase.io go client",
     "version": "4.4.0"
   },
-  "ctime": 1568118793,
+  "ctime": 1568221443,
   "expire_in": 504576000,
-  "prev": "f32c9760e820ba30e0ee3c487423af4de6570cae3642139b58178c1a9abfa834",
+  "prev": "0e62e1b286f5ee69ceee45adf9fd2b3208a1f1a13622e1292c2b840541d2e76d",
   "seqno": 5,
   "tag": "signature"
 }
+```
 
+with the key [ASC7li4dBFhKzR2Vqrx8lHLURXhlo4C6dzMYEVVvv6CS_Ao](https://keybase.io/albax), yielding the signature:
 
-with the key [ASClahttMRnEwzuFJXhiCM5XMCIUoSKxmLIPQrX85PxVkAo](https://keybase.io/aapahma46), yielding the signature:
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgu5YuHQRYSs0dlaq8fJRy1EV4ZaOAunczGBFVb7+gkvwKp3BheWxvYWTESpcCBcQgDmLhsob17mnO7kWt+f0rMgih8aE2IuEpLCuEBUHS523EICgtRpz+r58lwJauN4P7R0gaU5mx60dhXoJQa9V6S/nXAgHCo3NpZ8RAHTzYx9apKNQy7Uy6Df4bPd/pf8HiEJqGo9HzkEEuOxFVU/XDVe6u9eYLLHlk4SKCspQqD7VrVIKu/72WSkymC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBMhB2Jwk6mrFkjtQe0Rd/MwULFYFPsgug8drM1J8cizo3RhZ80CAqd2ZXJzaW9uAQ==
 
-
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgpWobbTEZxMM7hSV4YgjOVzAiFKEisZiyD0K1/OT8VZAKp3BheWxvYWTESpcCBcQg8yyXYOggujDg7jxIdCOvTeZXDK42QhObWBeMGpq/qDTEIF/v9zX6+IpFRcSuHkYwgDUUB/ogAoXlDETuzBja8+LaAgHCo3NpZ8RAY/wMPji6Dk5Dbdx74wGP9LE12ZzArzkPvJiBNwmjOp/2TTQalg9pSEh/HeQz/iH0A73YCEcQV5becyB6BwvBA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPHPdKg6/RqpFdsq6WBZSgqRgrDh3o30cFjy0n9IivPJo3RhZ80CAqd2ZXJzaW9uAQ==
-
-
+```
 
 And finally, I am proving ownership of the github account by posting this as a gist.
 
 ### My publicly-auditable identity:
 
-https://keybase.io/aapahma46
+https://keybase.io/albax
 
 ### From the command line:
 
 Consider the [keybase command line program](https://keybase.io/download).
 
-bash
+```bash
 # look me up
-keybase id aapahma46
+keybase id albax
+```
